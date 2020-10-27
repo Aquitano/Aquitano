@@ -1,16 +1,59 @@
-### Hi there 👋
+# Hello, I'm Thomas!
 
-<!--
-**Aquitano/Aquitano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 𝗜 𝗮𝗺 𝗮 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿 𝗶𝗻 𝘀𝗰𝗵𝗼𝗼𝗹
 
-Here are some ideas to get you started:
+```julia
+module main
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+aboutMe :: struct {
+  languages :: string[];
+  hobbies :: string[];
+  funFact :: string;
+}
+
+main :: func(): void {
+  ethan :: aboutMe = {
+    languages: ["C#", "Java", "JavaScript", "Python"],
+    hobbies: ["Coding", "Gaming"],
+    funFact: "The first 1GB hard disk drive was announced in 1980."
+  };
+
+  println "Languages I Know: ${ethan.languages}";
+  println "My Hobbies: ${ethan.hobbies}";
+  println "Fun Fact: ${ethan.funFact}";
+}
+```
+
+## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>𝗖#</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>JavaScript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+# 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+
+- ./.
+
+
+# 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
+
+!Here since 2018
