@@ -58,8 +58,11 @@ main :: func(): void {
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
 - <a href="https://github.com/Aquitano/JustHTML">JustHTML</a>
+- <a href="https://github.com/Aquitano/Periodensystem">Periodensystem</a>
 
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aquitano)
 
 Here since 2018.
