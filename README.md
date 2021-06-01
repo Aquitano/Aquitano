@@ -14,7 +14,7 @@ aboutMe :: struct {
 main :: func(): void {
   ethan :: aboutMe = {
     languages: ["C#", "Java", "JavaScript", "Python", "PHP"],
-    hobbies: ["Coding", "Gaming"],
+    hobbies: ["Coding", "Gaming", "Drawing"],
     funFact: "The first 1GB hard disk drive was announced in 1980."
   };
 
