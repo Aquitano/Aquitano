@@ -30,12 +30,8 @@ main :: func(): void {
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗖#</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+        <span>TypeScript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>JavaScript</strong></span><br><br><br>
@@ -45,10 +41,26 @@ main :: func(): void {
         <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
+      <td width="25%" align="center">
+        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+      </td>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <span>𝗩S 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Node.js</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
+      </td> 
+      <td width="25%" align="center">
+        <span>pnpm</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/pnpm.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Vite</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/vitejs.svg">
       </td>
     </tr>
     </tr>
@@ -58,7 +70,6 @@ main :: func(): void {
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
 - <a href="https://github.com/Aquitano/Spacify">Spacify</a>
-- <a href="https://github.com/Aquitano/PythonTools">PythonTools</a>
 
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
