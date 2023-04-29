@@ -1,30 +1,28 @@
 # Hello, I'm Thomas!
 
-𝗜 𝗮𝗺 𝗮 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿 𝗶𝗻 𝘀𝗰𝗵𝗼𝗼𝗹
+I'm an aspiring programmer currently honing my skills in school, passionate about learning and creating innovative solutions. Feel free to explore my projects and join me on this exciting journey. 🚀
 
-```julia
-module main
-
-aboutMe :: struct {
-  languages :: string[];
-  hobbies :: string[];
-  funFact :: string;
+```ts
+interface AboutMe {
+  languages: string[];
+  hobbies: string[];
+  funFact: string;
 }
 
-main :: func(): void {
-  ethan :: aboutMe = {
-    languages: ["C#", "Java", "JavaScript", "Python", "PHP"],
-    hobbies: ["Coding", "Gaming", "Drawing"],
+const main = (): void => {
+  const thomas: AboutMe = {
+    languages: ["Java", "JavaScript", "Python", "PHP", "TypeScript"],
+    hobbies: ["Coding", "Drawing", "Gaming", "Reading"],
     funFact: "The first 1GB hard disk drive was announced in 1980."
   };
 
-  println "Languages I Know: ${ethan.languages}";
-  println "My Hobbies: ${ethan.hobbies}";
-  println "Fun Fact: ${ethan.funFact}";
-}
+  console.log(`Languages I Know: ${thomas.languages}`);
+  console.log(`My Hobbies: ${thomas.hobbies}`);
+  console.log(`Fun Fact: ${thomas.funFact}`);
+};
 ```
 
-## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
+## 🛠️ 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 
 <table>
   <tbody>
@@ -67,12 +65,14 @@ main :: func(): void {
   </tbody>
 </table>
 
-# 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+# 🚧 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 W𝗼𝗿𝗸𝗶𝗻𝗴 O𝗻
 
-- <a href="https://github.com/Aquitano/Spacify">Spacify</a>
+- <a href="https://github.com/Aquitano/Nixi">Nixi</a> - An open-source read-it-later and productivity app ✨
+- <a href="https://github.com/Aquitano/Sosharu">Sosharu</a> - A grand, all-in-one life management app 🚀
 
 
-# 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
+
+# 📊 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Aquitano&theme=dark&ring=EB5454&fire=EB5454&hide_border=true)
 
