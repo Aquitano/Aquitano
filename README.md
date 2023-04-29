@@ -74,6 +74,6 @@ main :: func(): void {
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aquitano)
+![GitHub Streak](https://streak-stats.demolab.com?user=Aquitano&theme=dark&ring=EB5454&fire=EB5454&hide_border=true)
 
 Here since 2018.
