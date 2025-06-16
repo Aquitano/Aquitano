@@ -1,6 +1,7 @@
 # Hello, I'm Thomas!
 
-I'm an aspiring programmer currently honing my skills in school, passionate about learning and creating innovative solutions. Feel free to explore my projects and join me on this exciting journey. 🚀
+I'm a computer science student at university, building and experimenting with modern web technologies. I love tackling new challenges—whether it’s coding, designing UIs, or creating tools that make life easier.
+Check out my projects below and feel free to connect!
 
 ```ts
 interface AboutMe {
@@ -11,7 +12,7 @@ interface AboutMe {
 
 const main = (): void => {
   const thomas: AboutMe = {
-    languages: ["Java", "JavaScript", "Python", "PHP", "TypeScript"],
+    languages: ["TypeScript", "Java", "Python", "PHP", "COBOL"],
     hobbies: ["Coding", "Drawing", "Gaming", "Reading"],
     funFact: "The first 1GB hard disk drive was announced in 1980."
   };
@@ -25,50 +26,27 @@ const main = (): void => {
 ## 🛠️ 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 
 <table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>TypeScript</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>JavaScript</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
-      </td>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗩S 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Node.js</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
-      </td> 
-      <td width="25%" align="center">
-        <span>pnpm</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/pnpm.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Vite</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vitejs.svg">
-      </td>
-    </tr>
-    </tr>
-  </tbody>
+   <tbody>
+      <tr valign="top">
+         <td width="20%" align="center"> <strong>TypeScript</strong><br> <img height="48px" src="https://cdn.svgporn.com/logos/typescript-icon.svg"> </td>
+         <td width="20%" align="center"> <strong>Next.js</strong><br> <img height="48px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg"> </td>
+         <td width="20%" align="center"> <strong>Tailwind</strong><br> <img height="48px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg"> </td>
+         <td width="20%" align="center"> <strong>Bun</strong><br> <img height="48px" src="https://cdn.svgporn.com/logos/bun.svg"> </td>
+         <td width="20%" align="center"> <strong>Vite</strong><br> <img height="48px" src="https://cdn.svgporn.com/logos/vitejs.svg"> </td>
+      </tr>
+      <tr valign="top">
+         <td width="20%" align="center"> <strong>Node.js</strong><br> <img height="48px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"> </td>
+         <td width="20%" align="center"> <strong>Java</strong><br> <img height="48px" src="https://cdn.svgporn.com/logos/java.svg"> </td>
+         <td width="20%" align="center"> <strong>Python</strong><br> <img height="48px" src="https://cdn.svgporn.com/logos/python.svg"> </td>
+         <td width="20%" align="center"> <strong>PHP</strong><br> <img height="48px" src="https://cdn.svgporn.com/logos/php.svg"> </td>
+         <td width="20%" align="center"> <strong>VS Code</strong><br> <img height="48px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"> </td>
+      </tr>
+   </tbody>
 </table>
 
 # 🚧 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 W𝗼𝗿𝗸𝗶𝗻𝗴 O𝗻
 
-- <a href="https://github.com/Aquitano/Nixi">Nixi</a> - An open-source read-it-later and productivity app ✨
-- <a href="https://github.com/Aquitano/Sosharu">Sosharu</a> - A grand, all-in-one life management app 🚀
+- <a href="https://github.com/Aquitano/ChillFlow">ChillFlow</a> - Productivity app combining lo-fi beats, Pomodoro focus sessions, and simple task management—all in one minimal workspace. ✨
 
 
 
