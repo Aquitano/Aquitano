@@ -52,6 +52,6 @@ const main = (): void => {
 
 # 📊 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Aquitano&theme=dark&ring=EB5454&fire=EB5454&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats-beta-wheat.vercel.app?user=Aquitano&theme=dark&hide_border=true&short_numbers=true&ring=EB5454&fire=EB5454)](https://git.io/streak-stats)
 
 Here since 2018.
