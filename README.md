@@ -1,57 +1,8 @@
-# Hello, I'm Thomas!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Terminal session. whoami prints Thomas Breindl in block letters, then: Backend and systems engineer. CS student at the University of Passau. kubectl get jobs.thomasbreindl.me lists four roles. Element: running since 2026-10, working student. Cloudflare: completed, since 2026-07, Go, 100M events/s pipeline. itestra: completed, since 2025-03, COBOL to Java/Quarkus. CHECK24: completed, since 2025-08, async pipeline, P95 down 50 percent. kubectl get projects.thomasbreindl.me lists three projects. aqt-sync: Go, since 2026-06, zero-knowledge file sync. aqt-health: Kotlin, since 2026-04, health data API. chill-flow: Rust, since 2025-02, terminal focus player." src="assets/banner-light.svg">
+</picture>
 
-I'm a computer science student at university, building and experimenting with modern web technologies. I love tackling new challenges—whether it’s coding, designing UIs, or creating tools that make life easier.
-Check out my projects below and feel free to connect!
+Backend and systems engineer, CS student at the University of Passau. I work on data pipelines, storage and sync, mostly in Go, Java and Kotlin, and I am going deeper into distributed systems.
 
-```ts
-interface AboutMe {
-  languages: string[];
-  hobbies: string[];
-  funFact: string;
-}
-
-const main = (): void => {
-  const thomas: AboutMe = {
-    languages: ["TypeScript", "Java", "Python", "PHP", "COBOL"],
-    hobbies: ["Coding", "Drawing", "Gaming", "Reading"],
-    funFact: "The first 1GB hard disk drive was announced in 1980."
-  };
-
-  console.log(`Languages I Know: ${thomas.languages}`);
-  console.log(`My Hobbies: ${thomas.hobbies}`);
-  console.log(`Fun Fact: ${thomas.funFact}`);
-};
-```
-
-## 🛠️ 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
-
-<table>
-   <tbody>
-      <tr valign="top">
-         <td width="20%" align="center"> <strong>TypeScript</strong><br> <img height="48px" src="https://cdn.svgporn.com/logos/typescript-icon.svg"> </td>
-         <td width="20%" align="center"> <strong>Next.js</strong><br> <img height="48px" src="https://cdn.svgporn.com/logos/nextjs-icon.svg"> </td>
-         <td width="20%" align="center"> <strong>Tailwind</strong><br> <img height="48px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg"> </td>
-         <td width="20%" align="center"> <strong>Bun</strong><br> <img height="48px" src="https://cdn.svgporn.com/logos/bun.svg"> </td>
-         <td width="20%" align="center"> <strong>Vite</strong><br> <img height="48px" src="https://cdn.svgporn.com/logos/vitejs.svg"> </td>
-      </tr>
-      <tr valign="top">
-         <td width="20%" align="center"> <strong>Node.js</strong><br> <img height="48px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"> </td>
-         <td width="20%" align="center"> <strong>Java</strong><br> <img height="48px" src="https://cdn.svgporn.com/logos/java.svg"> </td>
-         <td width="20%" align="center"> <strong>Python</strong><br> <img height="48px" src="https://cdn.svgporn.com/logos/python.svg"> </td>
-         <td width="20%" align="center"> <strong>PHP</strong><br> <img height="48px" src="https://cdn.svgporn.com/logos/php.svg"> </td>
-         <td width="20%" align="center"> <strong>VS Code</strong><br> <img height="48px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"> </td>
-      </tr>
-   </tbody>
-</table>
-
-# 🚧 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 W𝗼𝗿𝗸𝗶𝗻𝗴 O𝗻
-
-- <a href="https://github.com/Aquitano/ChillFlow">ChillFlow</a> - Productivity app combining lo-fi beats, Pomodoro focus sessions, and simple task management—all in one minimal workspace. ✨
-
-
-
-# 📊 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
-
-[![GitHub Streak](https://github-readme-streak-stats-beta-wheat.vercel.app?user=Aquitano&theme=dark&hide_border=true&short_numbers=true&ring=EB5454&fire=EB5454)](https://git.io/streak-stats)
-
-Here since 2018.
+[aqt-sync](https://github.com/Aquitano/aqt-sync) · [aqt-health](https://github.com/Aquitano/aqt-health) · [chill-flow](https://github.com/Aquitano/chill-flow) · [thomasbreindl.me](https://thomasbreindl.me) · [LinkedIn](https://www.linkedin.com/in/thomas-breindl)

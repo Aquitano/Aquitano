@@ -1,0 +1,13 @@
+{
+  "name": "aquitano-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "banner": "bun banner.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "typescript": "latest"
+  }
+}
